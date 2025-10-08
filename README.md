@@ -14,7 +14,7 @@ Here is a step-by-step guide to install Nessus Essentials on Kali Linux:
 - Open a terminal in the directory where the .deb file is downloaded.
 - Run the command:
 
-		sudo dpkg -i Nessus-10.9.4-debian10_amd64.deb.deb
+		sudo dpkg -i Nessus-10.9.4-debian10_amd64.deb
 
 - This installs Nessus on Kali Linux.
 - Start the Nessus service:
