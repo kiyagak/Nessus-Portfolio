@@ -55,6 +55,9 @@ Accept the security warning by clicking "**Advanced**" then "**Accept the Risk a
 - Once setup is done, log in to Nessus using the admin account you created.
 - Nessus Essentials is now ready to use for vulnerability scanning on Kali Linux.
 
+<img width="1431" height="914" alt="image" src="https://github.com/user-attachments/assets/ff2a6cb2-54fe-4932-a643-b97906c6fda8" />
+<img width="1431" height="914" alt="image" src="https://github.com/user-attachments/assets/90fe7ff4-078b-4f3b-a063-1a03ef0d8eb4" />
+
 ## What I Learned
 
 I learned how to install and access Nessus Essentials on Kali Linux.  Nessus is the most popular vulnerability scanner and is useful for doing a variety of vulnerability scans on networks, systems, and applications.  
