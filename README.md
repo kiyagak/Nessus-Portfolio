@@ -12,13 +12,11 @@ Here is a step-by-step guide to install Nessus Essentials on Kali Linux:
 
 ## Install Nessus:
 - Open a terminal in the directory where the .deb file is downloaded.
-- Run the command:
+- Install Nessus on Kali Linux:
 
 		sudo dpkg -i Nessus-10.9.4-debian10_amd64.deb
 
-- This installs Nessus on Kali Linux.
-- Start the Nessus service:
-- Run the command to start the Nessus daemon:
+- Start the Nessus service or daemon:
 
 		sudo systemctl start nessusd.service
 
@@ -30,8 +28,7 @@ Here is a step-by-step guide to install Nessus Essentials on Kali Linux:
 
 		sudo systemctl status nessusd
 
-- Configure Nessus through the web interface:
-- Open a web browser and go to:
+- Configure Nessus through the web interface by opening a web browser and going to:
 		
 		https://localhost:8834/
 
@@ -41,17 +38,17 @@ Accept the security warning by clicking "**Advanced**" then "**Accept the Risk a
 
 <img width="1431" height="914" alt="image" src="https://github.com/user-attachments/assets/b592a7bb-59ab-4253-b382-290d2774d77a" />
 
-## Register and activate Nessus Essentials:
+## Register and Activate Nessus Essentials
 - On the welcome screen, select "Register for Nessus Essentials".
 - Enter your name and email address to receive an activation code.
 - Copy and save the activation code for future use.
 - Create an administrator username and password for Nessus.
 
-## Plugin download and setup:
+## Plugin Download and Setup
 - Nessus will begin downloading essential plugins needed for vulnerability scanning.
 - Wait until the download and setup process completes. This may take a while.
 
-## Login and use Nessus:
+## Login and Use Nessus
 - Once setup is done, log in to Nessus using the admin account you created.
 - Nessus Essentials is now ready to use for vulnerability scanning on Kali Linux.
 
