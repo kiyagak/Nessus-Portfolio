@@ -4,7 +4,7 @@ A step-by-step guide to install Nessus Essentials on Kali Linux.
 Here is a step-by-step guide to install Nessus Essentials on Kali Linux:
 
 ## Download Nessus:
-- Visit the official Tenable Nessus download page.
+- Visit the official [Tenable Nessus download page](https://www.tenable.com/downloads/nessus).
 - Select the Linux Debian-based package (.deb) suitable for your Kali Linux system architecture (usually amd64).
 - Download the file to your Kali Linux machine.
 
