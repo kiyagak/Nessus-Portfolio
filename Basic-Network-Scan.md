@@ -1,4 +1,4 @@
-# Nessus Essentials - Basic Network Scand
+# Nessus Essentials - Basic Network Scan
 
 ## Objective
 
