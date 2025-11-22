@@ -9,28 +9,26 @@ The goal is to use Nessus Essentials to reveal the vulnerability of the local ma
 Within the Nessus Essentials web interface 
 - click `New Scan`
 
-
-
-<img width="1275" height="160" alt="image" src="https://github.com/user-attachments/assets/0b6aecba-b476-4af1-8a7c-6b083f8e0e5c" />
+<img width="1275" height="160" alt="image" src="https://github.com/user-attachments/assets/4cd24ec9-dac9-4f80-aecd-5e26c0afee8f" />
 
 - Under `Vulnerabilities` select `Basic Network Scan`
 
-<img width="639" height="523" alt="image" src="https://github.com/user-attachments/assets/cdc3f59e-4bb4-4830-9f99-eb025b6b7ff2" />
+<img width="639" height="523" alt="image" src="https://github.com/user-attachments/assets/2ef58523-0297-4f8d-aa51-f3280be40560" />
 
 - In the **Name** field enter `localscan`.
 - In the **Target** field enter `127.0.0.1`
 
-<img width="1101" height="701" alt="image" src="https://github.com/user-attachments/assets/5269f29c-228d-42e8-922d-cb0b2ea9d2b4" />
+<img width="1101" height="701" alt="image" src="https://github.com/user-attachments/assets/59dccdf6-8896-45eb-8829-e01386abdcbe" />
 
 - In the left pane of the **Settings** tab select `Disovery`
 - In the **Scan Type** dropdown select `Port scan (all ports)`
 
-<img width="1101" height="700" alt="image" src="https://github.com/user-attachments/assets/c3375a17-d0cb-410e-a113-cd65e1709393" />
+<img width="1101" height="700" alt="image" src="https://github.com/user-attachments/assets/a9e933ce-23e5-4538-b7c0-155d560aedbe" />
 
 - In the left pane of the **Settings** tab select `Assessment`
 - In the **Scan Type** dropdown leave it as `Default`
 
-<img width="1101" height="701" alt="image" src="https://github.com/user-attachments/assets/24ead76f-5110-4197-8320-e079a0b0b93c" />
+<img width="1101" height="701" alt="image" src="https://github.com/user-attachments/assets/e4b39089-873c-4295-a48a-7f9a877a7f10" />
 
 - In the left pane of the **Settings** tab select `Advanced`
 - In the **Scan Type** dropdown leave it as `Default`
@@ -38,19 +36,19 @@ Within the Nessus Essentials web interface
 - Click the arrow beside the **Save** button.
 - Click `Launch`.  
 
-<img width="1092" height="530" alt="image" src="https://github.com/user-attachments/assets/dd0e2eb3-2f06-4b10-ad8e-dfcbc3668bbc" />
+<img width="1092" height="530" alt="image" src="https://github.com/user-attachments/assets/1bef290d-9a3f-448a-aa6a-d5c6ce7c9c25" />
 
-<img width="1279" height="243" alt="image" src="https://github.com/user-attachments/assets/0726f747-895e-4ec4-bb57-2edd4748458f" />
+<img width="1279" height="243" alt="image" src="https://github.com/user-attachments/assets/240db540-44f4-413d-8d2a-6942acceab9a" />
 
 ## Viewing Scan Results
 
-A previous scan of the local machine, named `VM`, was done on November 20th.  It has the vulnerability scan results.  
+A previous scan of the local machine, named `VM`, was done on November 20th.  It has the vulnerability scan results. 
 
-<img width="1274" height="616" alt="image" src="https://github.com/user-attachments/assets/5b16be3d-787f-498b-b246-122ab2c550a6" />
+<img width="1274" height="616" alt="image" src="https://github.com/user-attachments/assets/f58c9267-fe0d-4d31-ba94-378f68479175" />
 
 - Click the host `127.0.0.1` to view its vulnerability scan results.
 
-<img width="1379" height="685" alt="image" src="https://github.com/user-attachments/assets/1eb1894d-63fc-4c82-b040-d325fc61fbce" />
+<img width="1379" height="685" alt="image" src="https://github.com/user-attachments/assets/29712054-e7f4-4175-b05a-e23a6c4fa46c" />
 
 - Click the first vulnerability.  This scan found an `Ruby REXML 3.3.3 < 3.4.2 DoS vulnerability`.  
 
@@ -110,11 +108,9 @@ IAVB:  2025-B-0155
 CVE:  CVE-2025-58767
 ```
 
-<img width="1269" height="750" alt="image" src="https://github.com/user-attachments/assets/f314d16a-4991-4c2c-a310-044deded1dc3" />
+<img width="1269" height="750" alt="image" src="https://github.com/user-attachments/assets/e95eb225-bc88-4f68-b1da-10c7efa0841e" />
 
 The vulnerability scan also found that the `SSL Certificate Cannot Be Trusted`.  
-
-<img width="1269" height="750" alt="image" src="https://github.com/user-attachments/assets/735178b2-2d04-4a3f-8329-b33ffd32a5d8" />
 
 <img width="1269" height="750" alt="image" src="https://github.com/user-attachments/assets/0338c029-5ca4-49a2-990d-5bb81e790543" />
 
