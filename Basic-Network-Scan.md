@@ -9,6 +9,8 @@ The goal is to use Nessus Essentials to reveal the vulnerability of the local ma
 Within the Nessus Essentials web interface 
 - click `New Scan`
 
+
+
 <img width="1275" height="160" alt="image" src="https://github.com/user-attachments/assets/0b6aecba-b476-4af1-8a7c-6b083f8e0e5c" />
 
 - Under `Vulnerabilities` select `Basic Network Scan`
@@ -113,6 +115,8 @@ CVE:  CVE-2025-58767
 The vulnerability scan also found that the `SSL Certificate Cannot Be Trusted`.  
 
 <img width="1269" height="750" alt="image" src="https://github.com/user-attachments/assets/735178b2-2d04-4a3f-8329-b33ffd32a5d8" />
+
+<img width="1269" height="750" alt="image" src="https://github.com/user-attachments/assets/0338c029-5ca4-49a2-990d-5bb81e790543" />
 
 ## What I Learned
 
