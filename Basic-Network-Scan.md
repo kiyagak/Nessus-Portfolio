@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal is to use Nessus Essentials to reveal the vulnerability of the local machine that has Nessus Essentials installed on it.  
+The goal is to use Nessus Essentials to reveal the vulnerability of the local machine that has Nessus Essentials installed on it.
 
 ## Run a Basic Network Scan
 
