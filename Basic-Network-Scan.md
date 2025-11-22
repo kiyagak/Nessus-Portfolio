@@ -125,6 +125,6 @@ I learned
 - how to find the vulnerability's risk factor and the CVSS scores
 - how to find a vulnerability's CVE within Nessus Essentials
 - REXML had an outdated version that is vulnerable
-- mitigating the REXML DDoS vulnerability is fixed by upgrading the REXML version to the patched version of `3.4.2`
+- mitigating the REXML DoS vulnerability is fixed by upgrading the REXML version to the patched version of `3.4.2`
 - that the SSL certificate belongs to the Nessus Essentials software, is self-signed, and is not trusted
 
