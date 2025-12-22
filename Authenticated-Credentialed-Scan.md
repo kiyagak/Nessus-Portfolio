@@ -5,10 +5,14 @@
 The goal is to use Nessus Essentials to run an authenticated (credentialed) scan on a Windows target.  
 
 ### 1. Prepare the Target Systems
-Credentialed scans require proper configuration on the hosts being scanned.
- 
+
+### Tips and Limitations
+- Nessus Essentials is great for home/small networks or testing, but lacks advanced features like unlimited IPs, agents, or compliance templates in paid versions.
+- For remote/work-from-home setups, install Nessus Essentials on the target machine and scan localhost (127.0.0.1) for self-authenticated scans.
+
+
 **For Windows Targets:**
-- Use a local or domain account with **administrative privileges**.
+- Use a local or domain account with **administrative privileges** that is not your daily admin account for security purposes.
 - Enable **File and Printer Sharing** (for SMB access on ports 139/445).
 	- In the bottom-left search bar search **advanced sharing settings**.
 	- Click `Managed advanced sharing settings`.
@@ -126,11 +130,6 @@ Credentialed scans require proper configuration on the hosts being scanned.
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/61a42c61-26fb-4060-9fe9-56e106d9e49a" />
 
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/39653858-4aec-4195-a337-fc81a4ea4633" />
- 
-### Tips and Limitations
-- Nessus Essentials is great for home/small networks or testing, but lacks advanced features like unlimited IPs, agents, or compliance templates in paid versions.
-- For remote/work-from-home setups, install Nessus Essentials on the target machine and scan localhost (127.0.0.1) for self-authenticated scans.
-- Always use a dedicated scan account (not your daily admin) for security.
 
 ## What I Learned
 
