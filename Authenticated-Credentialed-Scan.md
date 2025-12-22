@@ -4,12 +4,7 @@
 
 The goal is to use Nessus Essentials to run an authenticated (credentialed) scan on a Windows target.  
 
-### 1. Prepare the Target Systems
-
-### Tips and Limitations
-- Nessus Essentials is great for home/small networks or testing, but lacks advanced features like unlimited IPs, agents, or compliance templates in paid versions.
-- For remote/work-from-home setups, install Nessus Essentials on the target machine and scan localhost (127.0.0.1) for self-authenticated scans.
-
+## 1. Prepare the Target Systems
 
 **For Windows Targets:**
 - Use a local or domain account with **administrative privileges** that is not your daily admin account for security purposes.
@@ -92,7 +87,7 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 
 - Make sure to add the account used for scanning to local groups if needed.
  
-### 2. Configure the Scan in Nessus Essentials
+## 2. Configure the Scan in Nessus Essentials
 1. Log in to your Nessus web interface (usually https://localhost:8834 or the host's IP).
 2. Create a new scan: Click **Scans** > **New Scan**.
 3. Choose a template: Use **Advanced Scan** or **Basic Network Scan** for flexibility. (For patch audits, select relevant policies if available.)
@@ -119,7 +114,7 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/59a0c08e-b3be-4dd5-bc68-880ca8d51613" />
 
-### 3. Verify Authentication Success
+## 3. Verify Authentication Success
 - After the scan, check results for plugin ID **21745** ("Authentication Failure" or similar) — if it appears, credentials failed.
 - Successful credentialed checks will show more detailed vulnerabilities (e.g., missing patches confirmed via registry/filesystem).
 
