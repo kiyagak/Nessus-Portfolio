@@ -4,6 +4,7 @@ A step-by-step guide to install Nessus Essentials on Kali Linux.
 Here is a step-by-step guide to install Nessus Essentials on Kali Linux:
 
 [Basic Network Scan](https://github.com/kiyagak/Nessus-Portfolio/blob/main/Basic-Network-Scan.md)
+
 [Authenticated (Credentialed) Scan](https://github.com/kiyagak/Nessus-Portfolio/blob/main/Authenticated-Credentialed-Scan.md)
 
 ## Download Nessus:
