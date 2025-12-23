@@ -14,9 +14,9 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
  	- Choose **Turn on file and printer sharing**.
 	- Click **Save changes**.  
 
-<img width="833" height="681" alt="image" src="https://github.com/user-attachments/assets/9a2cb6d2-9456-43fc-8794-a61668c9c873" />
+<img width="784" height="680" alt="image" src="https://github.com/user-attachments/assets/586d9d6e-8f4a-4693-8043-7059f809b7ad" />
 
-<img width="1126" height="593" alt="image" src="https://github.com/user-attachments/assets/8cf64f50-845a-47d0-8502-5d47dcb1e7d6" />
+<img width="786" height="620" alt="image" src="https://github.com/user-attachments/assets/75b846d4-990d-443d-af78-d41f3d4ac000" />
 
 - Enable/start the **Remote Registry** service (or allow Nessus to start it).
 	- Press the **Win+R** buttons simultaneously on your keyboard to open the **Run** dialog box.
