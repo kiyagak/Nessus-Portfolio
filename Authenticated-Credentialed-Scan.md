@@ -73,17 +73,19 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 	- Close Registry Editor.
 	- **Restart your computer**.
 
-<img width="401" height="207" alt="image" src="https://github.com/user-attachments/assets/6a6a25f1-116c-45a5-b068-63038e842367" />
+<img width="399" height="206" alt="image" src="https://github.com/user-attachments/assets/104562d2-9c67-45d9-9ec0-ab7867465b87" />
 
-<img width="458" height="315" alt="image" src="https://github.com/user-attachments/assets/979f3fe4-cd61-48b3-9859-1cb7a16f413a" />
+<img width="1066" height="617" alt="image" src="https://github.com/user-attachments/assets/92e18c48-ec12-4354-ae58-22a5700b20bf" />
 
-<img width="1063" height="615" alt="image" src="https://github.com/user-attachments/assets/06688d9f-4118-47dd-a918-72e9e24aaf9d" />
+<img width="1063" height="617" alt="image" src="https://github.com/user-attachments/assets/1cf4263e-5483-48cf-b149-b664436289bd" />
 
-<img width="1063" height="615" alt="image" src="https://github.com/user-attachments/assets/32bea16e-e0ed-4a29-929b-e80112b0f8fb" />
+<img width="1066" height="617" alt="image" src="https://github.com/user-attachments/assets/80c1b40f-fa9b-42ea-a0b7-39af1266ada0" />
 
-<img width="1063" height="615" alt="image" src="https://github.com/user-attachments/assets/63067723-04cb-40b0-8106-1127e1da786c" />
+<img width="1063" height="635" alt="image" src="https://github.com/user-attachments/assets/3eff2f46-c977-4911-8ec1-42792293921c" />
 
-<img width="1063" height="615" alt="image" src="https://github.com/user-attachments/assets/13ee1a95-6cf9-4e3b-89ec-c03f44efbd9c" />
+<img width="331" height="199" alt="image" src="https://github.com/user-attachments/assets/c70908c2-1f6f-48a6-a9c0-b6a5a1365ec3" />
+
+<img width="1066" height="617" alt="image" src="https://github.com/user-attachments/assets/1f01c42f-bf0b-4d81-b90b-c042197fc45a" />
 
 - Make sure to add the account used for scanning to local groups if needed.
  
