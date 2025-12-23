@@ -118,6 +118,8 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 - After the scan, check results for plugin ID **21745** ("Authentication Failure" or similar) — if it appears, credentials failed.
 - Successful credentialed checks will show more detailed vulnerabilities (e.g., missing patches confirmed via registry/filesystem).
 
+### Successful Authentication
+
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/ccb5ff3e-f486-4457-a7c2-3fa068c4d461" />
 
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/ff3cdb74-bd7d-41a0-8b80-47e17e621499" />
@@ -125,6 +127,20 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/61a42c61-26fb-4060-9fe9-56e106d9e49a" />
 
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/39653858-4aec-4195-a337-fc81a4ea4633" />
+
+### Failed Authentication
+
+The failed authentication can be filtered by searching for **plugin ID** 21745.  
+
+<img width="1282" height="692" alt="image" src="https://github.com/user-attachments/assets/5763bc8e-f9a0-42cc-9225-b218e00b2bd8" />
+
+<img width="1281" height="689" alt="image" src="https://github.com/user-attachments/assets/de0fd368-1ed3-467c-a472-e92ba71e4648" />
+
+<img width="1282" height="648" alt="image" src="https://github.com/user-attachments/assets/5210c3ed-466b-452c-8101-ae525ab7fe62" />
+
+<img width="1282" height="648" alt="image" src="https://github.com/user-attachments/assets/1b49e79e-2beb-4012-9477-2dab4ef5fd96" />
+
+<img width="1282" height="692" alt="image" src="https://github.com/user-attachments/assets/90bb2a81-0ce6-4012-bf33-85a85fe65b87" />
 
 ## What I Learned
 
