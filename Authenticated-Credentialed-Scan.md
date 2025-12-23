@@ -102,19 +102,15 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 5. Optionally, in **Discovery** or **Assessment**, enable thorough checks.
 6. Save and launch the scan.
 
-<img width="1283" height="690" alt="image" src="https://github.com/user-attachments/assets/374687bd-6353-4274-90a6-8bb31bedea26" />
+<img width="1282" height="648" alt="image" src="https://github.com/user-attachments/assets/3c1d10c5-4a69-4175-8bf8-1b7f748cc966" />
 
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/d5d58355-28a9-4cba-86a8-65ae66d9ca36" />
+<img width="1282" height="646" alt="image" src="https://github.com/user-attachments/assets/0e034a62-8d44-4a52-b6e6-410628d134ce" />
 
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/f8cb630a-6d43-48c0-b9c7-a38c29c8b265" />
+<img width="1282" height="690" alt="image" src="https://github.com/user-attachments/assets/770a10c9-7832-481e-a495-0d3cdf8a4b55" />
 
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/1d36fae7-f29f-4924-a29a-7d19c58112fd" />
+<img width="1282" height="646" alt="image" src="https://github.com/user-attachments/assets/530e5f85-ffad-40d5-8807-eb28cd690838" />
 
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/59742f18-4774-4d52-8f91-55bdb02c64b4" />
-
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/13e273e3-ed7d-408a-bdd4-1381b29542da" />
-
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/59a0c08e-b3be-4dd5-bc68-880ca8d51613" />
+<img width="1281" height="685" alt="image" src="https://github.com/user-attachments/assets/b23a304d-ec1c-4c66-884b-6db03cf7dc28" />
 
 ## 3. Verify Authentication Success
 - After the scan, check results for plugin ID **21745** ("Authentication Failure" or similar) — if it appears, credentials failed.
