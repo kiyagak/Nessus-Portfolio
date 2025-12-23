@@ -28,15 +28,15 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 	- Click **OK**.
 	- Click **Start** the service.  
 
-<img width="398" height="206" alt="image" src="https://github.com/user-attachments/assets/5a982084-64bf-4162-b14c-a5de5b360318" />
+<img width="399" height="206" alt="image" src="https://github.com/user-attachments/assets/96535795-8c22-4606-904b-2dafc219509f" />
 
-<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/abce7e96-19f9-42d6-80aa-ecddadac6dce" />
+<img width="945" height="593" alt="image" src="https://github.com/user-attachments/assets/379e5aca-9f0a-4e61-be1a-e0f5db3d719c" />
 
-<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/3f73ae8e-bec9-4ac0-b645-fb05ca69c7a1" />
+<img width="408" height="470" alt="image" src="https://github.com/user-attachments/assets/0a7475b5-180c-4cd8-8d42-7aa62002ad76" />
 
-<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/71ad56de-16fd-4413-bcb0-b6603c8e4661" />
+<img width="948" height="593" alt="image" src="https://github.com/user-attachments/assets/c044a8ee-d832-4ff4-89d4-60122b24b3df" />
 
-<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/8db5dae9-861a-494c-80ba-64e9a5023f07" />
+<img width="948" height="593" alt="image" src="https://github.com/user-attachments/assets/b7deb767-7143-4c50-a478-8d7c32d51ba2" />
 
 - Allow inbound connections on ports 139/445 and others Nessus needs.
 	- In the bottom-left search bar search for **Windows Defender Firewall**.
@@ -48,17 +48,17 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 		- Optionally: File and Printer Sharing (NB-Name-In) and (NB-Datagram-In) to allow NetBIOS (UDP ports 137-138, less critical for Nessus).
 		- Windows Management Instrumentation (WMI-In) to allow For WMI access (TCP 135 and dynamic ports).
 
-<img width="785" height="681" alt="image" src="https://github.com/user-attachments/assets/7e58f649-8c3c-4de4-a54a-3e4bf49f5276" />
+<img width="784" height="680" alt="image" src="https://github.com/user-attachments/assets/4062143e-5f83-4a5a-bf1d-cd85bf8d6676" />
 
-<img width="1127" height="593" alt="image" src="https://github.com/user-attachments/assets/7ea5c67b-2f6d-4408-a9c9-08b730c7fa1c" />
+<img width="793" height="632" alt="image" src="https://github.com/user-attachments/assets/f2524f97-ea6d-4ddd-9764-1c77fc6dcdc5" />
 
-<img width="1246" height="783" alt="image" src="https://github.com/user-attachments/assets/e691db2d-c1c7-410c-af8d-84540b43b4b3" />
+<img width="1047" height="784" alt="image" src="https://github.com/user-attachments/assets/8c8b7fc9-fedb-45c6-abf0-21ada79025a0" />
 
-<img width="1246" height="783" alt="image" src="https://github.com/user-attachments/assets/b68fa4ca-d8bd-47cb-aa38-43befa6f8edc" />
+<img width="1047" height="784" alt="image" src="https://github.com/user-attachments/assets/dcd96844-2f42-430b-8524-10e02d98a336" />
 
-<img width="1246" height="783" alt="image" src="https://github.com/user-attachments/assets/5d2d2fc8-6c0f-42b4-b23e-3a34e67782d6" />
+<img width="1097" height="784" alt="image" src="https://github.com/user-attachments/assets/a19da8f4-5844-4ae5-89d0-591b2606fa3c" />
 
-<img width="1246" height="783" alt="image" src="https://github.com/user-attachments/assets/c9b9f706-e839-4618-8d2f-d032137fe749" />
+<img width="1097" height="784" alt="image" src="https://github.com/user-attachments/assets/f51cffdb-39eb-4294-b1c9-3cfee8e29d87" />
 
 - Disable or configure **User Account Control (UAC)** restrictions for remote access (e.g., set the registry key `LocalAccountTokenFilterPolicy` to 1 for local accounts).
 	- Press **Win + R**, type `regedit`, and press Enter (run as administrator if prompted).
