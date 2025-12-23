@@ -118,13 +118,9 @@ The goal is to use Nessus Essentials to run an authenticated (credentialed) scan
 
 ### Successful Authentication
 
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/ccb5ff3e-f486-4457-a7c2-3fa068c4d461" />
+<img width="1282" height="650" alt="image" src="https://github.com/user-attachments/assets/6d738319-18cf-4746-86b3-9a2405a97463" />
 
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/ff3cdb74-bd7d-41a0-8b80-47e17e621499" />
-
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/61a42c61-26fb-4060-9fe9-56e106d9e49a" />
-
-<img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/39653858-4aec-4195-a337-fc81a4ea4633" />
+<img width="1282" height="648" alt="image" src="https://github.com/user-attachments/assets/6c07da25-7bd8-440f-a754-8e6987dcd58a" />
 
 ### Failed Authentication
 
